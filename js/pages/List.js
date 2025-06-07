@@ -100,8 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps) A list of all Mm
-                        od Menu Hacks and their scores can be seen <a href="https://docs.google.com/spreadsheets/d/19FqYFXAfokOonVAYcxXVNjrZd1B9bvtWx1X-Jdy1yqc/edit?usp=drivesdk"><p style="color: blue;">here.</p></a>
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps) A list of all Mod Menu Hacks and their scores can be seen <a href="https://docs.google.com/spreadsheets/d/19FqYFXAfokOonVAYcxXVNjrZd1B9bvtWx1X-Jdy1yqc/edit?usp=drivesdk"><p style="color: blue;">here.</p></a>
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
