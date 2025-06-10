@@ -1,6 +1,7 @@
 {
     "id": 101,
-    "name": <img src="././assets/insane2.png"> "Disassemble",
+    "name": "Disassemble",
+    "image": "insane2",
     "author": "Fluxite",
     "creators": [],
     "verifier": "Fluxite",
