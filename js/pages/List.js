@@ -51,6 +51,10 @@ export default {
                             <p>{{ level.rating }}</p>
                         </li>
                         <li>
+                            <div class="type-title-sm">Enjoyability</div>
+                            <p>{{ level.enjoyability }}</p>
+                        </li>
+                        <li>
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
