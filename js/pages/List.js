@@ -48,7 +48,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Rating In-Game</div>
-                            <p>{{ parentElement/parentElement/parentElement/assets/level.image }}</p>
+                            <p>{{ level.rating }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
