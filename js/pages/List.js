@@ -41,9 +41,6 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
-                    <li>
-                            <p>{{ level.description }}</p>
-                    </li>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
