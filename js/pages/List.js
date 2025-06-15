@@ -39,9 +39,9 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <p>{{ level.description }}</p>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <p>{{ level.description }}</p>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
